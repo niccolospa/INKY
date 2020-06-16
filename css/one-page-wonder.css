@@ -6,7 +6,7 @@
 
 @font-face{
     font-family: "Tetra ITC Std";
-    src: url('fonts/TetraITCStd-Book.otf');
+    src: url('../fonts/TetraITCStd-Book.otf');
 }
 
 body {
@@ -20,7 +20,7 @@ h4,
 h5,
 h6 {
   font-family: "Tetra ITC Std";
-  color: blue;
+  color: black;
   font-weight: 800 !important;
 }
 
