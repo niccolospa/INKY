@@ -4,6 +4,11 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/blob/master/LICENSE)
  */
 
+@font-face{
+    font-family: "Tetra ITC Std";
+    src: url('fonts/TetraITCStd-Book.ttf');
+}
+
 body {
   font-family: 'Lato';
 }
