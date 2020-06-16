@@ -20,6 +20,7 @@ h4,
 h5,
 h6 {
   font-family: 'Tetra ITC Std';
+  src: url('fonts/TetraITCStd-Book.otf');
   color: black;
   font-weight: 800 !important;
 }
